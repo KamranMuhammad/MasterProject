@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092566453777",
+    "project_id": "dealscanner-31ae6",
+    "storage_bucket": "dealscanner-31ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092566453777:android:dfb52cf43dac7a53e0ebb0",
+        "android_client_info": {
+          "package_name": "com.example.dealfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092566453777-6ehle9nhui0b86v4778rcu2mtpoh9f0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dealfinder",
+            "certificate_hash": "75b8bf2317f8dd77fb6ad4e69e1030defb022cf8"
+          }
+        },
+        {
+          "client_id": "1092566453777-bsdf16f8oa6a9i7vk2stv0mc0vnl6nr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4fGGlZ9hC7CNo8dS7sxrfyqxINITftY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092566453777-bsdf16f8oa6a9i7vk2stv0mc0vnl6nr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
